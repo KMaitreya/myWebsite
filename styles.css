@@ -101,6 +101,7 @@ button{
     margin-top: 1rem;
     border-radius: 0.3rem;
     padding: 0.5rem;
+    cursor :pointer;
 }
 
 a{
